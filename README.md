@@ -1,3 +1,3 @@
 # bootcamp
 
-This is the repository for practice.
+This is the repository for practice. let's begin...
